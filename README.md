@@ -1,0 +1,1 @@
+This project helps analyze the Largest Contentful Paint (LCP) of any website, a key performance metric that measures how quickly the largest visible element loads. The tool extracts LCP data using JavaScript and browser APIs, allowing developers to improve page speed and user experience.
